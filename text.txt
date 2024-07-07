@@ -1,1 +1,40 @@
-crates test1.txt file
+</head>
+  <body  style="background-color:lightgray">
+   <img src="images/Badri1.jgp" alt="badrinath image"  style="float:right"; >
+      <h2><b>Name:</b><i>K.Badrinth</i> <br>
+      <b>Phone no:</b><i>9025180873</i><br>
+      <b>Email id:</b><i>badri0610k@gmail.com</i><br>
+      <b>DOB:</b><i>06/10/2002</i><br>
+      <b>Gender:</b><i>Male</i><br>
+      <b>Father's Name:</b><i>S.Karuppusamy</i><br>
+      <b>Religion:</b><i>Hindu</i><br>
+      <b>Narionality:</b><i>Indian</i><br>
+      <b>Languages Known:</b><i>Tamil and English</i><br>
+      <b>Experience:</b><i>Fresher</i><br>
+      <b>Address:</b><i>66/74,Middle Street,Vallam,Thanjavur</i><br>
+      <br>
+      <table style="Width:100%"><b><u>Eduction Qualification:</u><b>
+<br>
+<br>
+      <tr>
+        <th>Course</th>
+        <th>Name of  the Institution</th>
+        <th>Year of Passing</th>
+        <th>% of Marks</th>
+      </tr>
+      <tr>
+        <td>+2</td>
+        <td>Rajahs hr sec school thanjanur</td>
+        <td>20219-2020</td>
+       <td>60%</td>
+      </tr>
+      <tr>
+        <td>B.sc Computer Science</td>
+        <td>Rajah Serfoji Goverment College thanjanur</td>
+        <td>2020-2023</td>
+       <td>70%</td>
+      </tr>
+      </table>
+      </h2>
+  
+  </body>.txt file
